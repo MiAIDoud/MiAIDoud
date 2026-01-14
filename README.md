@@ -11,7 +11,6 @@
 ## DartPower Github Stonks
 
 
-![Просмотры профиля](https://gpvc.arturio.dev/dartpower)
 
 <!--
 **MiAIDoud/MiAIDoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
